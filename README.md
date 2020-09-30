@@ -8,9 +8,9 @@ Experimental various projects.
 - ios-games: iOSのゲーム
 - notes: あまりまとまっていないメモ(時系列)
 - rails: Ruby on Railsの実験プロジェクト
-  - mukoyama: Raspberry Pi + BME280 で温度データを収集し、データベース化します。
-  - Rails framework does not allow us to add any numbers as prefix.  
-    So we decided to use the name to the land in Takachiho as a project name.
+ - mukoyama: Raspberry Pi + BME280 で温度データを収集し、データベース化します。
+ - Rails framework does not allow us to add any numbers as prefix.  
+   So, we decided to use the name to the land in Takachiho as a project name.
 - raspi: RaspberryPiを利用したプログラム
 - sandbox: ??
 - snippets: 小ネタ集
@@ -28,5 +28,5 @@ Experimental various projects.
   温度センサの記録を累積
 
 ## Swift Games
-We are trying to create simple but funny games!
-See swift-games/README.md for datails.
+We are trying to create a few simple but funny games!
+See swift-games/README.md for details.
